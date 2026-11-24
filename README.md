@@ -4,10 +4,11 @@ Data scientist with an MSc in Data Science and Artificial Intelligence and a BSc
 
 ## Selected projects
 
-- **[Neural chunking: BiLSTM vs Transformer](https://github.com/xicko72/Neural-Chunking-BiLSTM-vs-Transformer)** — implemented and compared two PyTorch sequence labellers, including a Transformer encoder built from basic torch.nn components. Evaluated token-level predictions across 17 chunk tags.
-- **[Multi-armed bandit simulation](https://github.com/xicko72/Multi-armed-Bandit-Algorithm)** — built an ε-greedy agent and compared how exploration rates affect reward and optimal-action selection across simulated tasks.
-
-My MSc dissertation examined how clearly Model Context Protocol tools describe their capabilities to AI agents. I built a benchmark of 535 tools from public registry data and checked automated ratings against manually reviewed examples.
+- **[MCP tool-description benchmark](https://github.com/xicko72/mcp-tool-description-benchmark)** — MSc dissertation code for collecting, scoring and analysing tool descriptions. The README explains the dataset and release limits.
+- **[Neural chunking: BiLSTM vs Transformer](https://github.com/xicko72/Neural-Chunking-BiLSTM-vs-Transformer)** — compared two PyTorch sequence labellers across 17 chunk tags.
+- **[Local LLM chess agent](https://github.com/xicko72/local-llm-chess-agent)** — legal-move checking, heuristic fallback and game evaluation.
+- **[LunarLander DQN](https://github.com/xicko72/lunarlander-dqn)** — a deep Q-learning agent with replay memory and evaluation.
+- **[Multi-armed bandit simulation](https://github.com/xicko72/Multi-armed-Bandit-Algorithm)** — compared exploration rates and their effects on reward and optimal-action selection.
 
 **Tools:** Python · SQL · pandas · scikit-learn · PyTorch · Power BI · Git
 
