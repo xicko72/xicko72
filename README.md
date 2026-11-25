@@ -4,9 +4,9 @@ Data scientist with an MSc in Data Science and Artificial Intelligence and a BSc
 
 ## Projects
 
-- **[MCP tool-description benchmark](https://github.com/xicko72/mcp-tool-description-benchmark)** — MSc dissertation code for collecting, scoring and analysing tool descriptions. The README explains the dataset and release limits.
+- **[MCP tool-description benchmark](https://github.com/xicko72/mcp-tool-description-benchmark)** — scored 509 MCP tool descriptions against a five-part rubric. In that corpus, 43% gave no guidance on when to use the tool and 91% gave no example. The repository contains the analysis code; the README explains the data-release limits.
 - **[Neural chunking: BiLSTM vs Transformer](https://github.com/xicko72/Neural-Chunking-BiLSTM-vs-Transformer)** — compared two PyTorch sequence labellers across 17 chunk tags.
-- **[Local LLM chess agent](https://github.com/xicko72/local-llm-chess-agent)** — legal-move checking, heuristic fallback and game evaluation.
+- **[Local LLM chess agent](https://github.com/xicko72/local-llm-chess-agent)** — checks the model’s proposed moves against the legal-move list and falls back to a heuristic when needed, so invalid LLM output does not stop a game.
 - **[LunarLander DQN](https://github.com/xicko72/lunarlander-dqn)** — a deep Q-learning agent with replay memory and evaluation.
 - **[Multi-armed bandit simulation](https://github.com/xicko72/Multi-armed-Bandit-Algorithm)** — compared exploration rates and their effects on reward and optimal-action selection.
 
